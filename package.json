@@ -1,0 +1,19 @@
+{
+  "name": "test.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./sass/main.scss:./public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagharbi/test.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagharbi/test.github.io/issues"
+  },
+  "homepage": "https://github.com/nagharbi/test.github.io#readme"
+}
